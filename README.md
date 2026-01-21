@@ -35,17 +35,17 @@ An Android application designed to manage competition events in educational inst
       Coordinator: Event organizers who manage events and student participation
       Student: Participants who can view events and participate in activities
       
-#Tech Stack
-  *Frontend
-      Language: Java
-      UI Framework: Android SDK
-      Minimum SDK: API Level 21 (Android 5.0)
-      UI Components:
-          Material Design Components
-          NavigationView with DrawerLayout
-          CardView
-          RecyclerView
-          Fragments
+# Tech Stack
+        *Frontend
+            Language: Java
+            UI Framework: Android SDK
+            Minimum SDK: API Level 21 (Android 5.0)
+            UI Components:
+                Material Design Components
+                NavigationView with DrawerLayout
+                CardView
+                RecyclerView
+                Fragments
 
   *Backend Integration
       HTTP Client: Volley Library
